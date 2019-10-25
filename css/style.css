@@ -34,11 +34,11 @@ footer {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: top;
-	color: white;
+	color: rgba(34, 1, 1, 0.753);
 }
 
 footer a {
-	color: white !important; 
+	color: rgb(6, 12, 71) !important; 
 }
 
 footer em {
@@ -62,7 +62,7 @@ form button {
 	font-size: 18px;
 	border-radius: 5px;
 	background-color: rgb(7, 37, 49);
-	color: white;
+	color: rgb(160, 84, 84);
 	width: 100px;
 }
 
@@ -101,7 +101,7 @@ header div {
 }
 
 header h1 {
-	color: white;
+	color: rgb(243, 243, 247);
 	text-align: center;
 }
 
