@@ -25,3 +25,8 @@ article {
 	width: 77%;
 	margin-left: 2%;
 }
+nav { 
+	clear: both;
+	float: left;
+	width: 20%;
+}
