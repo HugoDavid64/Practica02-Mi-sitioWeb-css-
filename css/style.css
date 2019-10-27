@@ -184,12 +184,12 @@ tr, th, td {
 #pie {
 	padding-top: 10%
 }
+
 b{color:rgb(9, 71, 121); 
 	font-size:10px;
 	font-family:Courier;
 	width:100px; 
 	height:100px;
-	
 	overflow: scroll
 }
 
